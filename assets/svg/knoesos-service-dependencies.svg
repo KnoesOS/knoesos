@@ -1,0 +1,4024 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1000"
+   height="1000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="knoesos-dependencies-v1.svg"
+   inkscape:export-filename="/home/josh/Save/diagrams/knoesos-dependencies-v1.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient40110">
+      <stop
+         style="stop-color:#949494;stop-opacity:0.6510067;"
+         offset="0"
+         id="stop40112" />
+      <stop
+         style="stop-color:#001616;stop-opacity:0;"
+         offset="1"
+         id="stop40114" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient40090">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop40092" />
+      <stop
+         style="stop-color:#a6a6a6;stop-opacity:0.6510067;"
+         offset="1"
+         id="stop40094" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4152"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="SquareL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="SquareL"
+       style="overflow:visible">
+      <path
+         id="path4213"
+         d="M -5.0,-5.0 L -5.0,5.0 L 5.0,5.0 L 5.0,-5.0 L -5.0,-5.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyTriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4303"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(-6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Tail"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Tail"
+       style="overflow:visible">
+      <g
+         id="g4179"
+         transform="scale(-1.2)">
+        <path
+           id="path4181"
+           d="M -3.8048674,-3.9585227 L 0.54352094,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4183"
+           d="M -1.2866832,-3.9585227 L 3.0617053,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4185"
+           d="M 1.3053582,-3.9585227 L 5.6537466,0"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4187"
+           d="M -3.8048674,4.1775838 L 0.54352094,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4189"
+           d="M -1.2866832,4.1775838 L 3.0617053,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+        <path
+           id="path4191"
+           d="M 1.3053582,4.1775838 L 5.6537466,0.21974226"
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.8;stroke-linecap:round" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInM"
+       style="overflow:visible">
+      <path
+         id="path4279"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path5933"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Send"
+       style="overflow:visible">
+      <path
+         id="path5939"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path6051"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path5909"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         id="path5921"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         id="path5927"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path5906"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6051-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6051-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6051-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-24"
+       style="overflow:visible">
+      <path
+         id="path6051-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-0"
+       style="overflow:visible">
+      <path
+         id="path6051-0"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3"
+       style="overflow:visible">
+      <path
+         id="path6051-5"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-72"
+       style="overflow:visible">
+      <path
+         id="path6051-1"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-02"
+       style="overflow:visible">
+      <path
+         id="path6051-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-9"
+       style="overflow:visible">
+      <path
+         id="path6051-8"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-6"
+       style="overflow:visible">
+      <path
+         id="path6051-59"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-61"
+       style="overflow:visible">
+      <path
+         id="path6051-67"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-04"
+       style="overflow:visible">
+      <path
+         id="path6051-89"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-22"
+       style="overflow:visible">
+      <path
+         id="path6051-02"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4279-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4279-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInM-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4279-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-4"
+       style="overflow:visible">
+      <path
+         id="path5909-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible">
+      <path
+         id="path5909-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-1"
+       style="overflow:visible">
+      <path
+         id="path5909-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-0"
+       style="overflow:visible">
+      <path
+         id="path5909-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-2"
+       style="overflow:visible">
+      <path
+         id="path5909-79"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-9"
+       style="overflow:visible">
+      <path
+         id="path5909-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-04"
+       style="overflow:visible">
+      <path
+         id="path5909-13"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-6"
+       style="overflow:visible">
+      <path
+         id="path5909-83"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-46"
+       style="overflow:visible">
+      <path
+         id="path5909-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-42"
+       style="overflow:visible">
+      <path
+         id="path5909-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-62"
+       style="overflow:visible">
+      <path
+         id="path5909-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-38"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-5"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-75"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-95"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-39"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-66"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-48"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-59"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-6"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-4"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-48"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-13"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-70"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-5"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-58"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-60"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-49"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-89"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-68"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-50"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-8"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-67"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-47"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-33"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-44"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-61"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-98"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-12"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-67"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-92"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-83"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-96"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-22"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-386"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-54"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-0"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-673"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-25"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-21"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-681"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-73"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-61"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-78"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-52"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-77"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-69"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-99"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-923"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-91"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-53"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-51"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-07"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-75"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-985"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-31"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-922"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-36"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-03"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-74"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-24"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-123"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-63"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-951"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-40"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-88"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-34"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-82"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-486"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-19"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-474"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-252"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-617"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-2527"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-706"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-09"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-29"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-66"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-73"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-04"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-898"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-93"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-11"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-50"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-77"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-79"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-601"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-87"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-539"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-08"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-709"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-64"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-37"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-60"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-74"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-40"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-22"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-01"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-31"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-52"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-51"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-24"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-45"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-770"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-215"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-931"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-409"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-133"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-442"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-937"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-371"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-406"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-220"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-734"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-248"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-606"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-93"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-57"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-448"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-611"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-695"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-00"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-736"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-06"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-966"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-780"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-932"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-42"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-377"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-44"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-90"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-80"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-57"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-679"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-690"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-613"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-547"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-514"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-09"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-53"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4152-775"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-391.41156"
+     inkscape:cy="1137.333"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1021"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     guidetolerance="10000"
+     objecttolerance="10000"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:snap-bbox-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-nodes="true"
+     guidecolor="#ff0000"
+     guideopacity="0.14901961"
+     gridtolerance="10000"
+     showborder="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid14469"
+       empspacing="20"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="12.5px"
+       spacingy="12.5px"
+       originx="0px"
+       color="#0000ff"
+       opacity="0.04705882"
+       empcolor="#ff0000"
+       empopacity="0.20784314"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-52.36218)">
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,302.36218 125,337.5 125,162.5"
+       id="path4137-2-4-8-3-2-9-5-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#3888ff;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.06341463000000000"
+       d="m 162.5,-162.5 450,0 L 600,850 l -175,0 -125,-87.5 -25,-50 -50,12.5 -62.5,0 z"
+       id="path39818"
+       inkscape:connector-curvature="0"
+       transform="translate(0,52.36218)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#f8d0d3;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 187.5,-100 0,325 L 300,289.95191 414.95191,175 600,175 l 0,-275 -412.5,0 z"
+       id="path39918"
+       inkscape:connector-curvature="0"
+       transform="translate(0,52.36218)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5668"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,287.36218)"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"><flowRegion
+         id="flowRegion5670"><rect
+           id="rect5672"
+           width="115.35712"
+           height="109.28571"
+           x="554.64288"
+           y="450.71429" /></flowRegion><flowPara
+         id="flowPara5674" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5676"
+       style="font-size:28px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       transform="translate(0,287.36218)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><flowRegion
+         id="flowRegion5678"><rect
+           id="rect5680"
+           width="119.64288"
+           height="110"
+           x="550.35712"
+           y="450" /></flowRegion><flowPara
+         id="flowPara5682">knoesis-0corc</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 150,330 0,0"
+       id="path14680"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       transform="translate(0,287.36218)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 500,802.36218 0,-175 0,-325"
+       id="path4137-2-4-8-3-2-9-5-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#008000;fill-opacity:0.13302755999999999;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 87.5,-162.5 0,837.5 -112.5,37.5 -25,25 -37.5,400 -700,0 0,-1025 356.07143,-275 z"
+       id="path38246"
+       inkscape:connector-curvature="0"
+       transform="translate(0,52.36218)"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,302.36218 -137.5,0 -112.5,0"
+       id="path4137-2-4-8-3-2-9-57"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="M 500,302.36218 698.58075,277.68844 687.5,-110.13782 l -187.5,-12.5 -650,-12.5 -262.5,25 -87.5,75 0,87.5"
+       id="path4137-2-4-8-3-2-9-5-2-3-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,302.36218 0,175 0,75"
+       id="path4137-2-4-8-3-2-9-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,302.36218 175,0 75,0"
+       id="path4137-2-4-8-3-2-9-9-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 500,52.36218 -162.5,162.5 -87.5,87.5"
+       id="path4137-2-4-8-3-2-9-9-51"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,302.36218 -275,-375 L -339.18209,10.041677 -500,52.36218"
+       id="path4137-2-4-8-3-2-9-9-5-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 500,302.36218 -175,125 -487.5,-75 -62.5,125 -25,75"
+       id="path4137-2-4-8-3-2-9-9-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 500,302.36218 -175,175 -75,75"
+       id="path4137-2-4-8-3-2-9-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,52.36218 0,150 0,100"
+       id="path4137-2-4-8-3-2-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,1052.3622 -112.5,-287.50002 112.5,-212.5"
+       id="path4137-2-4-8-32-8-6-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,802.36218 -87.5,-125 -87.5,-462.5 -150,-187.5 -187.5,-62.5 -237.5,87.5"
+       id="path4137-2-4-8-32-8-6-4-1-8-7-3-1-2-3-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,1052.3622 0,175 0,75"
+       id="path4137-2-4-8-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,2052.3622 -175,0 -75,0"
+       id="path4137-2-4-8-2-7-0-8-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,2052.3622 0,-162.5 0,-87.5"
+       id="path4137-2-4-8-2-7-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,2052.3622 -175,0 -75,0"
+       id="path4137-2-4-8-2-7-0-8-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(0,52.36218)"
+       style="fill:#000000;fill-opacity:0.13302755999999999;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="m -100,1412.5 462.5,0 -62.5,562.5 -100,0 -300,-150 z"
+       id="rect38523"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,1802.3622 0,175 0,75"
+       id="path4137-2-4-8-2-7-0-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,1552.3622 -162.5,0 -87.5,0"
+       id="path4137-2-4-8-2-7-0-7-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,1552.3622 200,200 50,50"
+       id="path4137-2-4-8-2-7-0-7-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,1552.3622 0,175 0,75"
+       id="path4137-2-4-8-2-7-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,2052.3622 -200,-200 -50,-50"
+       id="path4137-2-4-8-2-7-0-8-1-7-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,1552.3622 -200,200 -50,50"
+       id="path4137-2-4-8-2-7-0-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,1552.3622 0,175 0,75"
+       id="path4137-2-4-8-2-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,1802.3622 175,0 75,0"
+       id="path4137-2-4-8-2-7-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,1302.3622 200,200 50,50"
+       id="path4137-2-4-8-2-7-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,1302.3622 -187.5,-150 -350,0 -150,-62.5 -62.5,-37.5"
+       id="path4137-2-4-8-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,802.36218 0,175 0,75.00002"
+       id="path4137-2-4-8-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,552.36218 0,175 0,75"
+       id="path4137-2-4-8-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,302.36218 0,175 0,75"
+       id="path4137-2-4-8-32-8-6-4-1-3-1-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,802.36218 187.5,-187.5 62.5,-62.5"
+       id="path4137-2-4-8-32-5-6-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,802.36218 -175,0 -75,0"
+       id="path4137-2-4-8-32-5-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -500,802.36218 200,-200 50,-50"
+       id="path4137-2-4-8-32-8-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,802.36218 0,-175 0,-75"
+       id="path4137-2-4-8-32-5-6-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -500,802.36218 425,-212.5 75,-37.5"
+       id="path4137-2-4-8-32-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,552.36218 0,175 0,75"
+       id="path4137-2-4-8-32-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,302.36218 -187.5,187.5 -62.5,62.5"
+       id="path4137-2-4-8-32-8-6-4-1-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,52.36218 -200,200 -50,50"
+       id="path4137-2-4-8-32-8-6-4-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,302.36218 -200,-200 -50,-50"
+       id="path4137-2-4-8-32-8-6-4-1-8-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 500,802.36218 -162.5,125 -587.5,0 -175,-12.5 -75,-46.34776 0,-66.15224"
+       id="path4137-2-4-8-3-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,302.36218 -62.5,-187.5 -437.5,-62.5"
+       id="path4137-2-4-8-32-8-6-4-1-8-7-3-1-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,52.36218 0,425 0,75"
+       id="path4137-2-4-8-32-8-6-4-1-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,302.36218 -425,0 -75,0"
+       id="path4137-2-4-8-32-8-6-4-1-8-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,552.36218 162.5,0 87.5,0"
+       id="path4137-2-4-8-32-2-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -500,302.36218 200,200 50,50"
+       id="path4137-2-4-8-32-8-6-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 500,802.36218 125,-100 12.5,-525 -25,-275 -825,-12.5 -212.5,50 -75,112.5"
+       id="path4137-2-4-8-3-2-9-5-2-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,52.36218 225,437.5 25,62.5"
+       id="path4137-2-4-8-32-8-6-4-1-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,302.36218 -425,-212.5 -75,-37.5"
+       id="path4137-2-4-8-32-8-6-4-1-8-7-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -500,302.36218 0,-175 0,-75"
+       id="path4137-2-4-8-32-8-6-4-1-8-7-3-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,52.36218 -175,0 -75,0"
+       id="path4137-2-4-8-32-8-6-4-1-8-7-3-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -500,802.36218 -150,-250 0,-250 150,-250"
+       id="path4137-2-4-8-32-8-6-4-1-8-7-3-1-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,552.36218 -200,-425 -50,-75"
+       id="path4137-2-4-8-32-8-6-4-18"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -500,1052.3622 -137.5,-250.00002 125,-150 186.15082,-70.9146 L -250,552.36218"
+       id="path4137-2-4-8-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -500,52.36218 450,450 50,50"
+       id="path4137-2-4-8-32-8-6-4-1-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,1052.3622 0,175 0,75"
+       id="path4137-2-4-8-2-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,1052.3622 62.5,-100.00002 150,-262.5 37.5,-137.5"
+       id="path4137-2-4-8-50"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -500,1052.3622 87.5,-100.00002 237.5,-62.5 L -45.764229,640.62176 0,552.36218"
+       id="path4137-2-4-8-50-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 0,802.36218 0,175 0,75.00002"
+       id="path4137-2-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(-250,1102.3622)"
+       sodipodi:type="arc"
+       style="fill:#01ff01;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(0,1102.3622)"
+       sodipodi:type="arc"
+       style="fill:#00ffff;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-5"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(-250,852.36218)"
+       sodipodi:type="arc"
+       style="fill:#008000;fill-opacity:0.65882353000000005;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373000000004;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-7"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(0,602.36218)"
+       sodipodi:type="arc"
+       style="fill:#00ffff;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-5-1"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(-500,602.36218)"
+       sodipodi:type="arc"
+       style="fill:#01ff01;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-7-6"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-380.26721"
+       y="439.53952"
+       id="text5684-1-9-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0-9"
+         x="-380.26721"
+         y="439.53952">etcd</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-380.26721"
+         y="474.53952"
+         id="tspan36731">Server</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-380.26721"
+         y="509.53952"
+         id="tspan38134">Container</tspan></text>
+    <path
+       transform="translate(-250,602.36218)"
+       sodipodi:type="arc"
+       style="fill:#01ff01;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-7-6-3"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-146.3757"
+       y="520.0589"
+       id="text5684-1-9-4-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0-9-9"
+         x="-146.3757"
+         y="520.0589">Docker</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-146.3757"
+         y="555.0589"
+         id="tspan29312">(level 2)</tspan></text>
+    <path
+       transform="translate(-750,852.36218)"
+       sodipodi:type="arc"
+       style="fill:#01ff01;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-7-6-4"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -500,1052.3622 -200,-237.50002 -12.5,-487.5 212.5,-275"
+       id="path4137-2-4-8-57"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,1052.3622 -137.5,-187.50002 -75,-187.5 -175,-350 137.5,-275"
+       id="path4137-2-4-8-57-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -250,802.36218 -250,-250 -112.5,-250 112.5,-250"
+       id="path4137-2-4-8-32-8-6-4-1-8-7-3-1-2-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 500,52.36218 -212.5,87.5 -150,87.5 -137.5,75"
+       id="path4137-2-4-8-3-2-9-9-51-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -500,52.36218 -250,275 0,725.00002 256.97962,171.3197 L -75,1502.3622 l 75,50"
+       id="path4137-2-4-8-32-8-6-4-1-8-7-3-1-2-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-211.80804"
+       y="748.08112"
+       id="text5684-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66"
+         x="-211.80804"
+         y="748.08112">KnoesOS</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-211.80804"
+         y="783.08112"
+         id="tspan36552">Core</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-211.80804"
+         y="818.08112"
+         id="tspan37642">Container</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-693.43103"
+       y="617.24255"
+       id="text5684-1-9-4-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0-9-0"
+         x="-693.43103"
+         y="617.24255">Ceph</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-693.43103"
+         y="652.24255"
+         id="tspan29377">Monitor</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-693.43103"
+         y="687.24255"
+         id="tspan37630">Container</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-948.77692"
+       y="1111.3729"
+       id="text5684-1-9-4-3-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:36px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-948.77692"
+         y="1111.3729"
+         id="tspan29475">Direct Service</tspan><tspan
+         style="font-size:36px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-948.77692"
+         y="1156.3729"
+         id="tspan29547">Dependencies</tspan></text>
+    <path
+       transform="translate(-500,852.36218)"
+       sodipodi:type="arc"
+       style="fill:#01ff01;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-7-6-4-9"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-451.16156"
+       y="682.67621"
+       id="text5684-1-9-4-3-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0-9-0-3"
+         x="-451.16156"
+         y="682.67621">Ceph</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-451.16156"
+         y="717.67621"
+         id="tspan36163">Metadata</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-451.16156"
+         y="752.67621"
+         id="tspan37632">Container</tspan></text>
+    <path
+       transform="translate(-750,352.36218)"
+       sodipodi:type="arc"
+       style="fill:#01ff01;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-7-6-4-4-8"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-558.33997"
+       y="154.60826"
+       id="text5684-1-9-4-3-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-558.33997"
+         y="154.60826"
+         id="tspan29377-6">Zookeeper</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-558.33997"
+         y="189.60826"
+         id="tspan37638">Container</tspan></text>
+    <path
+       transform="translate(-500,102.36218)"
+       sodipodi:type="arc"
+       style="fill:#01ff01;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-7-6-4-4-8-9"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-259.94836"
+       y="-42.337978"
+       id="text5684-1-9-4-3-4-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-259.94836"
+         y="-42.337978"
+         id="tspan29377-6-5">Mesos</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-259.94836"
+         y="-7.3379793"
+         id="tspan36071">Master</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-259.94836"
+         y="27.662022"
+         id="tspan37636">Container</tspan></text>
+    <path
+       style="fill:#ec9595;fill-opacity:0.60487809;stroke:none"
+       d="m -665.16854,-191.38782 1255.33708,0 -86.40609,270.646067 -86.34672,0 -230.33708,0 -139.634432,241.853933 -102.219499,0 -117.265409,-437.64045 -274.30762,158.371584 -57.58427,57.58427 z"
+       id="path40088"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 250,52.36218 -175,112.5 -75,137.5"
+       id="path4137-2-4-8-3-2-9-9-51-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(-250,352.36218)"
+       sodipodi:type="arc"
+       style="fill:#01ff01;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-7-6-4-4-8-9-4"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-79.245918"
+       y="281.66965"
+       id="text5684-1-9-4-3-4-9-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-79.245918"
+         y="281.66965"
+         id="tspan36071-8">Marathon</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-79.245918"
+         y="316.66965"
+         id="tspan37640">Container</tspan></text>
+    <path
+       transform="translate(0,352.36218)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ae0023;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373999999998;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-7-6-4-4-8-9-4-4"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="167.55542"
+       y="326.88925"
+       id="text5684-1-9-4-3-4-9-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="167.55542"
+         y="326.88925"
+         id="tspan29377-6-5-9">Mesos</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="167.55542"
+         y="361.88925"
+         id="tspan36071-2">Slave</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="167.55542"
+         y="396.88925"
+         id="tspan39535">Container</tspan></text>
+    <path
+       transform="translate(0,852.36218)"
+       sodipodi:type="arc"
+       style="fill:#002255;fill-opacity:0.65882353000000005;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373000000004;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-5-1-9"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="37.067604"
+       y="812.79773"
+       id="text5684-1-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592582,-0.25881905,0.25881905,0.96592582,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-3"
+         x="37.067604"
+         y="812.79773">KnoesOS</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="37.067604"
+         y="847.79773"
+         id="tspan36550">Compute</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="37.067604"
+         y="882.79773"
+         id="tspan37682">Container</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="97.038239"
+       y="581.34985"
+       id="text5684-1-9-4-2-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592582,-0.25881905,0.25881905,0.96592582,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0-9-9-1"
+         x="97.038239"
+         y="581.34985">Docker</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="97.038239"
+         y="616.34985"
+         id="tspan29312-6">(level 2)</tspan></text>
+    <path
+       style="fill:#ececec;stroke:#1a1a1a;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:24, 24;stroke-dashoffset:0;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 125,-135.13782 c 0,83.33334 0,1479.16662 0,1562.50002"
+       id="path4137-2-4-8-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(250,352.36218)"
+       sodipodi:type="arc"
+       style="fill:#00ffff;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-5-1-2"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="408.88193"
+       y="392.17236"
+       id="text5684-1-9-4-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592582,-0.25881905,0.25881905,0.96592582,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0-9-1"
+         x="408.88193"
+         y="392.17236">etcd</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="408.88193"
+         y="427.17236"
+         id="tspan36729">Client</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="408.88193"
+         y="462.17236"
+         id="tspan38142">Container</tspan></text>
+    <path
+       transform="translate(0,102.36218)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0034;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373999999998;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-5-1-2-4"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="228.53923"
+       y="123.09613"
+       id="text5684-1-9-4-3-4-9-0-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592582,-0.25881905,0.25881905,0.96592582,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="228.53923"
+         y="123.09613"
+         id="tspan36071-8-2">Chronos</tspan></text>
+    <path
+       transform="translate(250,852.36218)"
+       sodipodi:type="arc"
+       style="fill:#00ffff;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-5-1-9-9"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="279.29105"
+       y="875.81201"
+       id="text5684-1-9-4-3-2-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592582,-0.25881905,0.25881905,0.96592582,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0-9-0-3-7"
+         x="279.29105"
+         y="875.81201">Ceph</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="279.29105"
+         y="910.81201"
+         id="tspan36725">Objects</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="279.29105"
+         y="945.81201"
+         id="tspan38144">Container</tspan></text>
+    <path
+       transform="translate(-750,102.36218)"
+       sodipodi:type="arc"
+       style="fill:#01ff01;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-7-6-4-4-8-98"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-495.49503"
+       y="-104.07767"
+       id="text5684-1-9-4-3-4-94"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-495.49503"
+         y="-104.07767"
+         id="tspan36938">Docker</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-495.49503"
+         y="-69.077667"
+         id="tspan36942">Registry</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-495.49503"
+         y="-34.077663"
+         id="tspan37634">Container</tspan></text>
+    <path
+       transform="translate(0,2102.3622)"
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-56"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-281.77634"
+       y="2023.4285"
+       id="text5684-1-9-4-3-4-94-0-8-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-281.77634"
+         y="2023.4285"
+         id="tspan37061-4">KnoesOS</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-281.77634"
+         y="2058.4285"
+         id="tspan37277">Bootstrap</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-281.77634"
+         y="2093.4282"
+         id="tspan38170">Container</tspan></text>
+    <path
+       transform="translate(-250,1602.3622)"
+       sodipodi:type="arc"
+       style="fill:#808080;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-56-8"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(0,1602.3622)"
+       sodipodi:type="arc"
+       style="fill:#808080;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-56-8-0"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-397.66415"
+       y="1470.3916"
+       id="text5684-1-9-4-3-4-94-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-397.66415"
+         y="1470.3916"
+         id="tspan36938-3">Docker</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-397.66415"
+         y="1505.3916"
+         id="tspan36988">Registry</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-397.66415"
+         y="1540.3916"
+         id="tspan38136">Container</tspan></text>
+    <path
+       style="fill:#ececec;stroke:#1a1a1a;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:24, 24;stroke-dashoffset:0;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m -737.5,1445.3622 c 83.33334,0 1279.16661,0 1362.50001,0"
+       id="path4137-2-4-8-5-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:#ececec;stroke:#1a1a1a;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:24, 24;stroke-dashoffset:0;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 376,2139.8622 c 0,-83.3333 0,-602.6666 0,-686"
+       id="path4137-2-4-8-5-3-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-123.45312"
+       y="1289.5809"
+       id="text5684-1-9-4-3-7-2"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:48px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-123.45312"
+         y="1289.5809"
+         id="tspan29547-3">Core</tspan><tspan
+         style="font-size:48px;text-align:end;text-anchor:end;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-123.45312"
+         y="1349.5809"
+         id="tspan37169">Node-n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="375"
+       y="1289.8622"
+       id="text5684-1-9-4-3-7-2-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:48px;text-align:start;text-anchor:start;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="375"
+         y="1289.8622"
+         id="tspan29547-3-4">Compute</tspan><tspan
+         style="font-size:48px;text-align:start;text-anchor:start;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="375"
+         y="1349.8622"
+         id="tspan37169-8">Node-n</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-390"
+       y="1592.3622"
+       id="text5684-1-9-4-3-7-2-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:48px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-390"
+         y="1592.3622"
+         id="tspan37169-82">Temporary Node-1</tspan><tspan
+         style="font-size:48px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-390"
+         y="1652.3622"
+         id="tspan37221">(e.g. laptop)</tspan></text>
+    <path
+       transform="translate(-250,1852.3622)"
+       sodipodi:type="arc"
+       style="fill:#808080;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-56-8-0-0"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(-500,2102.3622)"
+       sodipodi:type="arc"
+       style="fill:#808080;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-56-8-0-7"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(-500,1852.3622)"
+       sodipodi:type="arc"
+       style="fill:#808080;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-56-8-0-0-6"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-709.37695"
+       y="1667.973"
+       id="text5684-1-9-4-3-4-94-0-8"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-709.37695"
+         y="1667.973"
+         id="tspan36942-2-6">Ubuntu</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-709.37695"
+         y="1702.973"
+         id="tspan37279">13.04</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-709.37695"
+         y="1737.973"
+         id="tspan37061" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-462.30957"
+       y="1711.6516"
+       id="text5684-1-9-4-2-5-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-462.30957"
+         y="1711.6516"
+         id="tspan29312-4-2">etcd</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-462.30957"
+         y="1746.6516"
+         id="tspan37389">Server</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-462.30957"
+         y="1781.6516"
+         id="tspan38140">Container</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-158.09949"
+       y="1555.9612"
+       id="text5684-1-9-4-3-4-94-0-6"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-158.09949"
+         y="1555.9612"
+         id="tspan36988-4">Cobbler</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-158.09949"
+         y="1590.9612"
+         id="tspan38138">Container</tspan></text>
+    <path
+       transform="translate(-250,1352.3622)"
+       sodipodi:type="arc"
+       style="fill:#01ff01;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-4"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-332.69022"
+       y="1251.2673"
+       id="text5684-1-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0"
+         x="-332.69022"
+         y="1251.2673">Ubuntu</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-332.69022"
+         y="1286.2673"
+         id="tspan36733">13.04</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-275.78522"
+       y="1003.0218"
+       id="text5684-1-9-4-2-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0-9-9-0"
+         x="-275.78522"
+         y="1003.0218">Docker</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-275.78522"
+         y="1038.0217"
+         id="tspan29312-9">(level 1)</tspan></text>
+    <path
+       transform="translate(-500,1102.3622)"
+       sodipodi:type="arc"
+       style="fill:#7f2aff;fill-opacity:0.65882353000000005;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373000000004;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-7-6-5"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(0,1352.3622)"
+       sodipodi:type="arc"
+       style="fill:#00ffff;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-5-6"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-91.248253"
+       y="1320.1122"
+       id="text5684-1-9-0"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592582,-0.25881905,0.25881905,0.96592582,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0-4"
+         x="-91.248253"
+         y="1320.1122">Ubuntu</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-91.248253"
+         y="1355.1122"
+         id="tspan36735">13.04</tspan></text>
+    <path
+       transform="translate(250,102.36218)"
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0034;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373999999998;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-5-5"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-32.371292"
+       y="1064.3127"
+       id="text5684-1-9-4-2-3-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592582,-0.25881905,0.25881905,0.96592582,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0-9-9-0-1"
+         x="-32.371292"
+         y="1064.3127">Docker</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-32.371292"
+         y="1099.3127"
+         id="tspan29312-9-7">(level 1)</tspan></text>
+    <path
+       transform="translate(-750,1102.3622)"
+       sodipodi:type="arc"
+       style="fill:#01ff01;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-57"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-759.12726"
+       y="874.24231"
+       id="text5684-1-9-4-3-4-94-0-6-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-759.12726"
+         y="874.24231"
+         id="tspan36988-4-3">Cobbler</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-759.12726"
+         y="909.24231"
+         id="tspan37988">Container</tspan></text>
+    <path
+       transform="translate(0,1852.3622)"
+       sodipodi:type="arc"
+       style="fill:#808080;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-56-8-0-7-2"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-223.14014"
+       y="1795.6561"
+       id="text5684-1-9-4-2-5-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0-9-9-4-3"
+         x="-223.14014"
+         y="1795.6561">Docker</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-223.14014"
+         y="1830.6561"
+         id="tspan29312-4-0">(level 2)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="618.59375"
+       y="1636.2216"
+       id="text5684-1-9-4-3-7-2-7-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:64px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="618.59375"
+         y="1636.2216"
+         id="tspan37221-0">Interwebs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#00aad4;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-503.6123"
+       y="1961.6757"
+       id="text5684-1-9-4-3-7-2-7-4"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:108px;fill:#00aad4;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-503.6123"
+         y="1961.6757"
+         id="tspan38519">START</tspan></text>
+    <path
+       transform="translate(-250,2102.3622)"
+       sodipodi:type="arc"
+       style="fill:#808080;fill-opacity:0.65882353;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-56-8-0-7-6"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-529.32642"
+       y="1972.4326"
+       id="text5684-1-9-4-2-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         id="tspan5686-66-0-9-9-4"
+         x="-529.32642"
+         y="1972.4326">Docker</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-529.32642"
+         y="2007.4326"
+         id="tspan29312-4">(level 1)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-773.20697"
+       y="1897.8759"
+       id="text5684-1-9-4-3-4-94-0-8-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-773.20697"
+         y="1897.8759"
+         id="tspan37061-1">KnoesOS</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-773.20697"
+         y="1932.8759"
+         id="tspan38576">Númenor</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-773.20697"
+         y="1967.8759"
+         id="tspan38578">Script</tspan></text>
+    <path
+       transform="translate(250,1852.3622)"
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:0.50917429;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373000000004;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-56-8-0-0-6-5"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 425,1727.3622 12.5,12.5 62.5,62.5"
+       id="path4137-2-4-8-2-7-0-7-82-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="16.54398"
+       y="1878.4296"
+       id="text5684-1-9-4-3-4-94-0-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="16.54398"
+         y="1878.4296"
+         id="tspan38136-8">index.docker.io</tspan></text>
+    <path
+       transform="translate(250,2102.3622)"
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:0.50917429;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373000000004;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-56-8-0-0-6-5-5"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(500,1852.3622)"
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:0.50917429;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373000000004;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-56-8-0-0-6-5-8"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       transform="translate(500,2102.3622)"
+       sodipodi:type="arc"
+       style="fill:#ffff00;fill-opacity:0.50917429;fill-rule:nonzero;stroke:#01ccff;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373000000004;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3148-2-56-8-0-0-6-5-8-5"
+       sodipodi:cx="250"
+       sodipodi:cy="-50"
+       sodipodi:rx="50"
+       sodipodi:ry="50"
+       d="m 300,-50 a 50,50 0 1 1 -100,0 50,50 0 1 1 100,0 z"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <path
+       style="fill:none;stroke:#808080;stroke-width:6;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:none;marker-mid:url(#Arrow1Mend);marker-end:none"
+       d="m 425,1989.8622 12.5,12.5 62.5,50"
+       id="path4137-2-4-8-2-7-0-7-82"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-35.685181"
+       y="2122.4609"
+       id="text5684-1-9-4-3-4-94-0-1-9"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-35.685181"
+         y="2122.4609"
+         id="tspan38136-8-1">github.com/KnoesOS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="257.88522"
+       y="1943.0485"
+       id="text5684-1-9-4-3-4-94-0-1-9-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="257.88522"
+         y="1943.0485"
+         id="tspan38136-8-1-2">dragons</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="197.49658"
+       y="2183.8923"
+       id="text5684-1-9-4-3-4-94-0-1-9-2-1"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="197.49658"
+         y="2183.8923"
+         id="tspan38136-8-1-2-8">etc.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-512.51886"
+       y="939.51282"
+       id="text5684-1-9-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"
+       transform="matrix(0.96592583,-0.25881905,0.25881905,0.96592583,0,0)"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-512.51886"
+         y="939.51282"
+         id="tspan39449">Logging + Monitoring</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-512.51886"
+         y="974.51282"
+         id="tspan39453">+ Management  + Code</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-512.51886"
+         y="1009.5128"
+         id="tspan39507">+ CI Container(s)?</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-512.51886"
+         y="1044.5128"
+         id="tspan39455">(e.g. Sensu + BatsD</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-512.51886"
+         y="1079.5128"
+         id="tspan39457">+ Logstash + Ansible</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="-512.51886"
+         y="1114.5128"
+         id="tspan39509">+ Gitlab + GitlabCI)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="472.64581"
+       y="167.91344"
+       id="text5684-1-9-4-3-4-9-0-8-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96592582,-0.25881905,0.25881905,0.96592582,0,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="472.64581"
+         y="167.91344"
+         id="tspan36071-8-2-0">Docker</tspan><tspan
+         style="font-size:28px;fill:#ffffff;stroke:#4d4d4d;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+         sodipodi:role="line"
+         x="472.64581"
+         y="202.91344"
+         id="tspan39558">(Level 3)</tspan></text>
+    <g
+       id="g39869"
+       transform="translate(-40.95312,0)"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/josh/Save/diagrams/flowRoot5668.png"
+         d="m 300,-50 c 0,27.614237 -22.38576,50 -50,50 -27.61424,0 -50,-22.385763 -50,-50 0,-27.614237 22.38576,-50 50,-50 27.61424,0 50,22.385763 50,50 z"
+         sodipodi:ry="50"
+         sodipodi:rx="50"
+         sodipodi:cy="-50"
+         sodipodi:cx="250"
+         id="path3148-2-5-5-2"
+         style="fill:none;stroke:#ffcc00;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(-790,-232.63782)" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/josh/Save/diagrams/flowRoot5668.png"
+         sodipodi:linespacing="125%"
+         id="text5684-1-9-4-3-4-9-0-8-2-1"
+         y="-314.6192"
+         x="-534.25391"
+         style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e50000;fill-opacity:0.43902439;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan39591"
+           y="-314.6192"
+           x="-534.25391"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">Your</tspan><tspan
+           id="tspan39598"
+           y="-279.6192"
+           x="-534.25391"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">Docker</tspan><tspan
+           id="tspan39732"
+           y="-244.6192"
+           x="-534.25391"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">Containers!</tspan></text>
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/josh/Save/diagrams/flowRoot5668.png"
+         d="m 300,-50 c 0,27.614237 -22.38576,50 -50,50 -27.61424,0 -50,-22.385763 -50,-50 0,-27.614237 22.38576,-50 50,-50 27.61424,0 50,22.385763 50,50 z"
+         sodipodi:ry="50"
+         sodipodi:rx="50"
+         sodipodi:cy="-50"
+         sodipodi:cx="250"
+         id="path3148-2-5-5-2-0"
+         style="fill:none;stroke:#ffcc00;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(-540,-232.63782)" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/josh/Save/diagrams/flowRoot5668.png"
+         sodipodi:linespacing="125%"
+         id="text5684-1-9-4-3-4-9-0-8-2-1-5"
+         y="-290.13"
+         x="-289.30957"
+         style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e50000;fill-opacity:0.43902439;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan39734"
+           y="-290.13"
+           x="-289.30957"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">Your</tspan><tspan
+           id="tspan39752"
+           y="-255.13"
+           x="-289.30957"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">Frameworks!</tspan></text>
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/josh/Save/diagrams/flowRoot5668.png"
+         d="m 300,-50 c 0,27.614237 -22.38576,50 -50,50 -27.61424,0 -50,-22.385763 -50,-50 0,-27.614237 22.38576,-50 50,-50 27.61424,0 50,22.385763 50,50 z"
+         sodipodi:ry="50"
+         sodipodi:rx="50"
+         sodipodi:cy="-50"
+         sodipodi:cx="250"
+         id="path3148-2-5-5-2-0-6"
+         style="fill:none;stroke:#ffcc00;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(-290,-232.63782)" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/josh/Save/diagrams/flowRoot5668.png"
+         sodipodi:linespacing="125%"
+         id="text5684-1-9-4-3-4-9-0-8-2-1-5-8"
+         y="-310.2345"
+         x="-37.238281"
+         style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e50000;fill-opacity:0.43902439;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan39591-1-4"
+           y="-310.2345"
+           x="-37.238281"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">Your</tspan><tspan
+           id="tspan39736"
+           y="-275.2345"
+           x="-37.238281"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">HPC</tspan><tspan
+           id="tspan39760"
+           y="-240.2345"
+           x="-37.238281"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">Jobs!</tspan></text>
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/josh/Save/diagrams/flowRoot5668.png"
+         d="m 300,-50 c 0,27.614237 -22.38576,50 -50,50 -27.61424,0 -50,-22.385763 -50,-50 0,-27.614237 22.38576,-50 50,-50 27.61424,0 50,22.385763 50,50 z"
+         sodipodi:ry="50"
+         sodipodi:rx="50"
+         sodipodi:cy="-50"
+         sodipodi:cx="250"
+         id="path3148-2-5-5-2-0-6-6"
+         style="fill:none;stroke:#ffcc00;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(-40,-232.63782)" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/josh/Save/diagrams/flowRoot5668.png"
+         sodipodi:linespacing="125%"
+         id="text5684-1-9-4-3-4-9-0-8-2-1-5-8-3"
+         y="-307.63"
+         x="211.03906"
+         style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e50000;fill-opacity:0.43902439;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan39600-3-6-8"
+           y="-307.63"
+           x="211.03906"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">Your</tspan><tspan
+           id="tspan39705"
+           y="-272.63"
+           x="211.03906"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">Application</tspan><tspan
+           id="tspan39738"
+           y="-237.63"
+           x="211.03906"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">Stacks!</tspan></text>
+      <path
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/josh/Save/diagrams/flowRoot5668.png"
+         d="m 300,-50 c 0,27.614237 -22.38576,50 -50,50 -27.61424,0 -50,-22.385763 -50,-50 0,-27.614237 22.38576,-50 50,-50 27.61424,0 50,22.385763 50,50 z"
+         sodipodi:ry="50"
+         sodipodi:rx="50"
+         sodipodi:cy="-50"
+         sodipodi:cx="250"
+         id="path3148-2-5-1-2-4-5"
+         style="fill:none;stroke:#ffcc00;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.78431373;stroke-dasharray:none;stroke-dashoffset:0"
+         sodipodi:type="arc"
+         transform="translate(210,-232.63782)" />
+      <text
+         inkscape:export-ydpi="300"
+         inkscape:export-xdpi="300"
+         inkscape:export-filename="/home/josh/Save/diagrams/flowRoot5668.png"
+         sodipodi:linespacing="125%"
+         id="text5684-1-9-4-3-4-9-0-8-2-1-5-8-3-6"
+         y="-289.13782"
+         x="460"
+         style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#e50000;fill-opacity:0.43902439;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan39738-0"
+           y="-289.13782"
+           x="460"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">Your</tspan><tspan
+           id="tspan39816"
+           y="-254.13782"
+           x="460"
+           sodipodi:role="line"
+           style="font-size:28px;fill:#e50000;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:0.43902439">Data!</tspan></text>
+    </g>
+    <path
+       inkscape:export-ydpi="300"
+       inkscape:export-xdpi="300"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path39820"
+       d="m -777.5,-154.6378 c 83.33334,0 1279.16661,0 1362.50001,0"
+       style="fill:#ececec;stroke:#1a1a1a;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0.75294118;stroke-dasharray:24, 24;stroke-dashoffset:0;marker-mid:url(#Arrow1Mend);marker-end:none" />
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffea94;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-36.249992"
+       y="-170.58313"
+       id="text5684-1-9-4-3-7-2-7-3"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:32px;fill:#ffea94;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+         sodipodi:role="line"
+         x="-36.249992"
+         y="-170.58313"
+         id="tspan37221-9">(High Utilization + High Availability + Fault Tolerance + Distributed Storage...)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:28px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0052;fill-opacity:1;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="-97.550774"
+       y="-383.32434"
+       id="text5684-1-9-4-3-7-2-7-4-1"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/josh/Save/diagrams/knoesos-service-dependencies.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         style="font-size:144px;fill:#ff0052;stroke:#4d4d4d;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+         sodipodi:role="line"
+         x="-97.550774"
+         y="-383.32434"
+         id="tspan38519-6">KnoesOS</tspan></text>
+  </g>
+</svg>
