@@ -14,11 +14,10 @@ RUN apt-get upgrade -y
 RUN add-apt-repository -y ppa:rquillo/ansible
 RUN apt-get update
 RUN apt-get install -y ansible curl file git
-ADD 
+ADD ./ansible-playbooks/ .
 
 # Install ZooKeeper
-
-
+RUN ansible-playbook ansible-playbooks/knoesos-core_zookeeper.yml --connection=local
 
 # Expose ZooKeeper
 EXPOSE 28015
