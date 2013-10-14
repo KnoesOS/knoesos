@@ -1,6 +1,6 @@
 ---
-# file: tier-0a_nat.yml
-- hosts: tier-0a_nat
+# file: knoesos-core_zookeeper.yml
+- hosts: knoesos-core_zookeeper
   roles:
     - common
-    - tier-0a_nat
+    - knoesos-core_zookeeper
