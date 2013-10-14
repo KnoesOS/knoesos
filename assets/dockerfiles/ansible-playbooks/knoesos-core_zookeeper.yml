@@ -1,0 +1,6 @@
+---
+# file: tier-0a_nat.yml
+- hosts: tier-0a_nat
+  roles:
+    - common
+    - tier-0a_nat

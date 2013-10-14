@@ -1,0 +1,3 @@
+---
+# file: site.yml
+- include: knoesos-core_zookeeper.yml
