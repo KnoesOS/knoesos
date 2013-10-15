@@ -1,2 +1,7 @@
 ---
 # file: roles/knoesos-core_zookeeper/tasks/main.yml
+#- name: Install ZooKeeper
+#  apt: pkg=zookeeper  ,  zookeeper-server
+
+- name: Configure ZooKeeper
+  template: src=zoo.cfg.j2 dest=/etc/zookeeper/conf/zoo.cfg
