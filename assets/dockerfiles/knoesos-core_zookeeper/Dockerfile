@@ -1,6 +1,6 @@
 # ontos-core_zookeeper.dockerfile
 #
-# VERSION    1.0
+# VERSION    0.1.0
 #
 FROM ubuntu:12.04
 MAINTAINER Joshua Dotson, josh@knoesis.org
@@ -29,12 +29,14 @@ RUN apt-get install python-software-properties -y \
 ADD . ./DockerDNA
 
 # Install ZooKeeper
-RUN ansible-playbook ./DockerDNA/dna.yml --connection=local
-#RUN cat ./DockerDNA/dna.yml
+RUN ( echo '[knoesos-core_zookeeper]' && \
+      echo 'localhost' \
+    ) > /etc/ansible/hosts \
+      && ansible-playbook ./DockerDNA/dna.yml --connection=local
 
 # Expose ZooKeeper
 EXPOSE 28015
 
-ENTRYPOINT ["zkServer.sh start-foreground"]
+#ENTRYPOINT ["zkServer.sh start-foreground"]
 
-CMD ["--help"]
+#CMD ["--help"]
