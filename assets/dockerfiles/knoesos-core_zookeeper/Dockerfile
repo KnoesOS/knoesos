@@ -19,10 +19,11 @@ RUN apt-get install python-software-properties -y  # <= Ubuntu 12.04
 RUN add-apt-repository ppa:rquillo/ansible -y
 RUN apt-get update
 RUN apt-get install ansible -y
-ADD . ./Dockerlode
+ADD . ./DockerDNA
 
 # Install ZooKeeper
-#RUN ansible-playbook ./knoesos/ansible/knoesos-core_zookeeper.yml --connection=local
+#RUN ansible-playbook ./DockerDNA/dna.yml --connection=local
+RUN cat ./DockerDNA/dna.yml
 
 # Expose ZooKeeper
 EXPOSE 28015
