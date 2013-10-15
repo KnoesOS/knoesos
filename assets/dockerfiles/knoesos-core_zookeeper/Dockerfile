@@ -5,25 +5,24 @@
 FROM ubuntu:12.04
 MAINTAINER Joshua Dotson, josh@knoesis.org
 
-# Update the distro
+# Update distribution
 RUN echo "deb http://archive.ubuntu.com/ubuntu precise main universe" \
       > /etc/apt/sources.list \
-    && apt-get update \
-    && apt-get upgrade -y
+      && apt-get update \
+      && apt-get upgrade -y
 
-# Install base dependencies
-RUN apt-get install python-software-properties -y  # <= Ubuntu 12.04
-#RUN apt-get install software-properties-common -y  # >= Ubuntu 12.10
+# Install base dependencies (Ubuntu <= 12.04)
+RUN apt-get install python-software-properties -y \
+      && add-apt-repository ppa:rquillo/ansible -y \
+      && apt-get update
+      && apt-get install ansible -y
 
-# Install Ansible
-RUN add-apt-repository ppa:rquillo/ansible -y
-RUN apt-get update
-RUN apt-get install ansible -y
+# Add files
 ADD . ./DockerDNA
 
 # Install ZooKeeper
-#RUN ansible-playbook ./DockerDNA/dna.yml --connection=local
-RUN cat ./DockerDNA/dna.yml
+RUN ansible-playbook ./DockerDNA/dna.yml --connection=local
+#RUN cat ./DockerDNA/dna.yml
 
 # Expose ZooKeeper
 EXPOSE 28015
