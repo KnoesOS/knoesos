@@ -19,7 +19,7 @@ RUN apt-get install python-software-properties -y  # <= Ubuntu 12.04
 RUN add-apt-repository ppa:rquillo/ansible -y
 RUN apt-get update
 RUN apt-get install ansible -y
-ADD . ./knoesos
+ADD . ./Dockerlode
 
 # Install ZooKeeper
 #RUN ansible-playbook ./knoesos/ansible/knoesos-core_zookeeper.yml --connection=local
