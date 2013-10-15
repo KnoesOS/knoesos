@@ -9,13 +9,15 @@ MAINTAINER Joshua Dotson, josh@knoesis.org
 RUN echo "deb http://archive.ubuntu.com/ubuntu precise main universe" \
       > /etc/apt/sources.list \
       && apt-get update \
-      && apt-get upgrade -y
+      && apt-get upgrade -y \
+      && apt-get clean
 
 # Install base dependencies (Ubuntu <= 12.04)
 RUN apt-get install python-software-properties -y \
       && add-apt-repository ppa:rquillo/ansible -y \
-      && apt-get update
-      && apt-get install ansible -y
+      && apt-get update \
+      && apt-get install ansible -y \
+      && apt-get clean
 
 # Add files
 ADD . ./DockerDNA
