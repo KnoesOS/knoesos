@@ -6,8 +6,14 @@ FROM ubuntu:12.04
 MAINTAINER Joshua Dotson, josh@knoesis.org
 
 # Update distribution
-RUN echo "deb http://archive.ubuntu.com/ubuntu precise main universe" \
-      > /etc/apt/sources.list \
+RUN ( echo 'deb http://archive.ubuntu.com/ubuntu precise main' && \
+      echo 'deb http://archive.ubuntu.com/ubuntu precise-updates main' && \
+      echo 'deb http://security.ubuntu.com/ubuntu precise-security main' && \
+      echo 'deb http://archive.ubuntu.com/ubuntu precise universe' && \
+      echo 'deb http://archive.ubuntu.com/ubuntu precise-updates universe' \
+    ) > /etc/apt/sources.list \
+      && apt-mark hold upstart \
+      && apt-mark hold initscripts \
       && apt-get update \
       && apt-get upgrade -y \
       && apt-get clean
