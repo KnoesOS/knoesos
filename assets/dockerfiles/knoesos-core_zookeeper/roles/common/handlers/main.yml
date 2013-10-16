@@ -1,4 +1,2 @@
 ---
 # file: roles/common/handlers/main.yml
-- name: restart ntpd
-  service: name=ntpd state=restarted
