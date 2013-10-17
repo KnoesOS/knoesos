@@ -5,6 +5,6 @@
   apt: pkg=openjdk-7-jre-headless state=present
 
 - name: Configure JAVA_HOME variable
-- lineinfile: dest=/etc/environment 
+  lineinfile: dest=/etc/environment 
               regexp=^JAVA_HOME=
               line=JAVA_HOME="/usr/lib/jvm/java-7-openjdk-amd64"

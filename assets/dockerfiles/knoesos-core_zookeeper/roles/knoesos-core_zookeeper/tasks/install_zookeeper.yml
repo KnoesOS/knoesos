@@ -2,7 +2,7 @@
 # file: roles/knoesos-core_zookeeper/tasks/install_zookeeper.yml
 
 - name: Obtain Cloudera CDH4 repository key
-  apt-key: url=http://archive.cloudera.com/cdh4/ubuntu/precise/amd64/cdh/archive.key
+  apt_key: url=http://archive.cloudera.com/cdh4/ubuntu/precise/amd64/cdh/archive.key
            state=present
 
 - name: Add Cloudera CDH4 repository
@@ -17,7 +17,7 @@
        state=present
   with_items:
     - zookeeper
-    - zookeeper-servers
+    - zookeeper-server
 
 - name: Configure ZooKeeper
   template: src=zoo.cfg.j2 
