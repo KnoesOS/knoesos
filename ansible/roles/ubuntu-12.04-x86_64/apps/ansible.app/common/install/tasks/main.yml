@@ -1,14 +1,14 @@
 ---
 # file: tasks/main.yml
 
-- name: 'install: ansible: add ppa repository'
+- name: 'install: ansible (common): add ppa repository'
   apt_repository: repo="ppa:rquillo/ansible"
                   state=present
 
-- name: 'install: ansible: update apt cache'
+- name: 'install: ansible (common): update apt cache'
   apt: update_cache=yes
 
-- name: 'install: ansible'
+- name: 'install: ansible (common)'
   apt: pkg={{ item }} 
        state=present
   with_items:
