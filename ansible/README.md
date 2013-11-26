@@ -1,15 +1,17 @@
 KnoesOS
-----
-
-Ansible Roles Dependency Graph
 =====
 
-### Pictorial
+Ansible
+----
+
+### Role Dependency Graph
+
+#### Pictorial
 
 ![Role Dependencies](../assets/png/role-deps.png?raw=true "Role Dependencies")
 
 
-### Textual
+#### Textual
 
 - nodes -> apps
 - nodes -> bases
