@@ -1,0 +1,8 @@
+---
+# file: tasks/main.yml
+
+- name: "install: git"
+  apt: pkg={{ item }}
+       state=present
+  with_items:
+    - git

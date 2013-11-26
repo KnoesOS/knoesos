@@ -1,0 +1,4 @@
+---
+# file: defaults/main.yml
+
+apt_helper_purge_list:

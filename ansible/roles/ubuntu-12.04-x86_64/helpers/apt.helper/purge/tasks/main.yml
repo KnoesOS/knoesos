@@ -1,0 +1,8 @@
+---
+# file: tasks/main.yml
+
+- name: "apt: purge"
+  apt: pkg={{ item }} 
+       state=absent 
+       purge=yes
+  with_items: apt_helper_purge_list

@@ -1,0 +1,8 @@
+---
+# file: tasks/main.yml
+
+- name: "install: curl"
+  apt: pkg={{ item }}
+       state=present
+  with_items:
+    - curl

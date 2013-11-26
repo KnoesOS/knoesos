@@ -1,0 +1,8 @@
+---
+# file: tasks/main.yml
+
+- name: "install: rsync (client)"
+  apt: pkg={{ item }}
+       state=present
+  with_items:
+    - rsync

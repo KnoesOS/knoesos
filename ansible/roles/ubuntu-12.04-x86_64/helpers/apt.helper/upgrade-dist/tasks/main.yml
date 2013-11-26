@@ -1,0 +1,5 @@
+---
+# file: tasks/main.yml
+
+- name: "apt: upgrade-dist"
+  apt: upgrade=dist

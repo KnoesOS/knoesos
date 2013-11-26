@@ -1,0 +1,10 @@
+---
+# file: meta/main.yml
+
+dependencies:
+
+  # Bases
+  - { role: ubuntu-12.04-x86_64/bases/common.base/provision }
+
+  # Containers
+#  - { role: ubuntu-12.04-x86_64/containers/ntpd.container/provision }
