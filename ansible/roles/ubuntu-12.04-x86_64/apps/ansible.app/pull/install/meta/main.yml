@@ -3,3 +3,4 @@
 
 dependencies:
   - role: ubuntu-12.04-x86_64/apps/ansible.app/common/install
+  - role: ubuntu-12.04-x86_64/apps/run-one.app/install

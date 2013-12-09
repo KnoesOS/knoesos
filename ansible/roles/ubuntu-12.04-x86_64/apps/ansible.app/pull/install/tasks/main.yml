@@ -1,0 +1,30 @@
+---
+# file: tasks/main.yml
+
+# Install cron 
+
+# Cron should run every minute
+
+  # Try pinging aws api servers until it works
+
+  # Once it does, run only one ansible-pull
+
+  # The ansible-pull should include a seconds-of-sleep variable 
+  #   (default should be 17 minutes of sleep)
+
+
+
+  # run-one-until-success ping -c1 -W17 -q 4.2.2.2 && ansible-pull 
+
+ 
+
+
+#- name: 'install: ansible (pull): update apt cache'
+#  apt: update_cache=yes
+#  when: ansible_apt_repository.changed == True
+
+#- name: 'install: ansible (pull)'
+#  apt: pkg={{ item }}
+#       state=present
+#  with_items:
+#    - ansible
