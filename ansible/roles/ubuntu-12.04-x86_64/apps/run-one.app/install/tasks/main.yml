@@ -1,0 +1,17 @@
+---
+# file: tasks/main.yml
+
+- name: 'install: run-one: add ppa repository'
+  apt_repository: repo="ppa:run-one/ppa"
+                  state=present
+  register: run_one_apt_repository
+
+- name: 'install: run-one: update apt cache'
+  apt: update_cache=yes
+  when: run_one_apt_repository.changed == True
+
+- name: 'install: run-one'
+  apt: pkg={{ item }} 
+       state=present
+  with_items:
+    - run-one

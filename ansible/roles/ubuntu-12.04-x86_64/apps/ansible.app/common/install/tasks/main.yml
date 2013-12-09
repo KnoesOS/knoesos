@@ -4,12 +4,15 @@
 - name: 'install: ansible (common): add ppa repository'
   apt_repository: repo="ppa:rquillo/ansible"
                   state=present
+  register: ansible_apt_repository
 
 - name: 'install: ansible (common): update apt cache'
   apt: update_cache=yes
+  when: ansible_apt_repository.changed == True
 
 - name: 'install: ansible (common)'
-  apt: pkg={{ item }} 
+  apt: pkg={{ item }}
        state=present
   with_items:
     - ansible
+~                                  

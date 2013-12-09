@@ -11,20 +11,26 @@ dependencies:
   - role: ubuntu-12.04-x86_64/helpers/apt.helper/upgrade-dist
 
   # Install utilities
+  - role: ubuntu-12.04-x86_64/apps/cloud-utils.app/install
   - role: ubuntu-12.04-x86_64/apps/curl.app/install
+  - role: ubuntu-12.04-x86_64/apps/debootstrap.app/install
   - role: ubuntu-12.04-x86_64/apps/dos2unix.app/install
   - role: ubuntu-12.04-x86_64/apps/git.app/install
   - role: ubuntu-12.04-x86_64/apps/gnupg.app/install
   - role: ubuntu-12.04-x86_64/apps/lsof.app/install
+  - role: ubuntu-12.04-x86_64/apps/lxc.app/install
   - role: ubuntu-12.04-x86_64/apps/openssh.app/client/install
+  - role: ubuntu-12.04-x86_64/apps/run-one.app/install
   - role: ubuntu-12.04-x86_64/apps/rsync.app/client/install
   - role: ubuntu-12.04-x86_64/apps/vim.app/install
 
   # Install services
-  - role: ubuntu-12.04-x86_64/apps/ansible.app/pull/install
+#  - role: ubuntu-12.04-x86_64/apps/ansible.app/pull/install
 #  - role: ubuntu-12.04-x86_64/apps/fail2ban.app/install
+  - role: ubuntu-12.04-x86_64/apps/libvirt.app/install
 #  - role: ubuntu-12.04-x86_64/apps/logrotate.app/install
 #  - role: ubuntu-12.04-x86_64/apps/lumberjack.app/client/install
+  - role: ubuntu-12.04-x86_64/apps/lxc.app/install
 #  - role: ubuntu-12.04-x86_64/apps/openssh.app/server/install
 #  - role: ubuntu-12.04-x86_64/apps/postfix.app/client/install
 #  - role: ubuntu-12.04-x86_64/apps/rkhunter.app/install
