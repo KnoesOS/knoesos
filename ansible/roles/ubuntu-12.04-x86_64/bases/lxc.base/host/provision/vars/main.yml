@@ -1,0 +1,9 @@
+---
+# file: vars/main.yml
+
+apt_helper_cache_stale_seconds: 3600
+
+apt_helper_purge_list:
+  - screen
+  - telnet
+  - telnetd
