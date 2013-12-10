@@ -14,9 +14,21 @@
 
 
 
-  # run-one-until-success ping -c1 -W17 -q 4.2.2.2 && ansible-pull 
+  # run-one bash -c 'ping -c1 -w30 4.2.2.2 > /dev/null && date>> blah && sleep 10'
 
+
+  # ansible-pull
+  #   --purge
+  #   --force
+  #   --directory /var/ansible-pull
+  #   --url
+  #   --checkout
+  #   --inventory-file
+  #   --module-name git
  
+# Store the git checkout on a ramdisk for security ? 
+#   do not use any tmpfs, because it swaps out to disk
+#   maybe a manually created ramdisk
 
 
 #- name: 'install: ansible (pull): update apt cache'
