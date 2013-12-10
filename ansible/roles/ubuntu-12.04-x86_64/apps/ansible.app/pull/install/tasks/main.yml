@@ -30,6 +30,10 @@
 #   do not use any tmpfs, because it swaps out to disk
 #   maybe a manually created ramdisk
 
+# a suggestion from irc:
+
+# create dir at /dev/shm/blah and disable swap because tmpfs swaps
+
 
 #- name: 'install: ansible (pull): update apt cache'
 #  apt: update_cache=yes
