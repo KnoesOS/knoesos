@@ -1,5 +1,70 @@
 ---
 # file: tasks/main.yml
+# 
+# KnoesOS -- A warehouse scale operating system for the ages.
+#
+# Copyright 2013 Kno.e.sis (http://knoesis.org), Joshua Dotson <josh@wrale.com>
+#
+#    KnoesOS is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU Affero General Public License as
+#    published by the Free Software Foundation, either version 3 of the
+#    License, or (at your option) any later version.
+#
+#    KnoesOS is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU Affero General Public License for more details.
+#
+#    You should have received a copy of the GNU Affero General Public License
+#    along with KnoesOS.  If not, see <http://www.gnu.org/licenses/>.
+
+- name: 'install: ansible (pull): cron.d file'
+  cron: name="ansible-pull"
+        minute="*" hour="*" day="*" month="*"
+        user="root"
+        cron_file="ansible-pull"
+        job="echo blah"
+        job="run-one bash -c \"ping -c1 -w30 4.2.2.2 > /dev/null && ansible-pull -args && sleep 600\""
+
+  # run-one bash -c 'ping -c1 -w30 4.2.2.2 > /dev/null && date>> blah && sleep 10'
+
+# While the cron job by default runs once per minute,
+# run-one uses flock to ensure only a single combined
+# instance of ping && ansible-pull && sleep is in motion
+# at any given time.
+#
+# Pinging 4.2.2.2 is implemented here as it is a standard 
+# industry practice for WAN connectivity testing. 
+#
+# The duration of a typical single job instance is
+# estimated to be about 16-37 minutes, depending on many
+# factors as alluded to below.
+#
+# The ping should take no longer than 30 seconds and will 
+# very often finish sooner.
+#
+# The ansible-pull operation including procurement and
+# execution is estimated to take anywhere from 30 seconds
+# to 20 minutes, depending mostly on network bandwidth 
+# (re: package updates) and configuraiton complexity 
+# (re: thorough security hardening).
+#
+# The default sleep increment is 967 seconds, which is
+# about 16.12 minutes.
+#
+# It is recommended that you consider tweaking the sleep 
+# parameter to acheive one job run per 17 minute interval. 
+# This interval is suggested for its improbability of 
+# distributed intersection. The inspiration for this 
+# approach is the Magicicada genus of periodical cicada.
+# (see: http://bit.ly/18U4joi)
+#
+# By default, ping is configured here to send one ICMP
+# packet per job run, in contrast to per cron run (see
+# metnion of run-one above). The ping deadline (duration 
+# to await response before failing, exiting non-zero) is 
+# 30 seconds. 
+
 
 # Install cron 
 
@@ -14,7 +79,6 @@
 
 
 
-  # run-one bash -c 'ping -c1 -w30 4.2.2.2 > /dev/null && date>> blah && sleep 10'
 
 
   # ansible-pull
