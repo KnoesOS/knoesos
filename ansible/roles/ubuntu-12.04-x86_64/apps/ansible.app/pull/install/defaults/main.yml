@@ -1,0 +1,28 @@
+---
+# file: defaults/main.yml
+
+ansible_pull_command: >
+  ansible-pull
+  --purge
+  --force
+  --directory /var/ansible-pull
+  --url 
+  --checkout
+  --inventory-file
+  --module-name git
+
+  --purge
+  --for
+
+  -d 
+
+  # ansible-pull
+  #   --purge
+  #   --force
+  #   --directory /var/ansible-pull
+  #   --url
+  #   --checkout
+  #   --inventory-file
+  #   --module-name git
+
+
