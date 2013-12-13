@@ -1,0 +1,32 @@
+# Default settings for ansible-pull. This file is sourced by /bin/sh from
+# /etc/init/ansible-pull.conf.
+
+# 0 is false; 1 is true
+ENABLED=0
+
+# Location of the ansible-pull command
+ANSIBLE_PULL_BIN={{ ANSIBLE_PULL_BIN }}
+
+# host to ping to test WAN connectivity (e.g. "4.2.2.2")
+ANSIBLE_PULL_PING_HOST={{ ANSIBLE_PULL_PING_HOST }}
+
+# where to stage pull data
+ANSIBLE_PULL_STAGING_DIRECTORY={{ ANSIBLE_PULL_STAGING_DIRECTORY }}
+
+# where to obtain pull data
+ANSIBLE_PULL_REPO={{ ANSIBLE_PULL_REPO }}
+
+# branch to checkout
+ANSIBLE_PULL_BRANCH={{ ANSIBLE_PULL_BRANCH }}
+
+# name of target inventory file
+ANSIBLE_PULL_INVENTORY_FILE={{ ANSIBLE_PULL_INVENTORY_FILE }}
+
+# Ansible module used for pull (e.g. "git")
+ANSIBLE_PULL_MODULE_NAME={{ ANSIBLE_PULL_MODULE_NAME }}
+
+# Seconds to sleep between pulls (e.g. "600")
+ANSIBLE_PULL_SLEEP_SECONDS={{ ANSIBLE_PULL_SLEEP_SECONDS }}
+
+# Options to pass to ansible-pull
+ANSIBLE_PULL_OPTS="--purge --directory $ANSIBLE_PULL_STAGING_DIRECTORY --url $ANSIBLE_PULL_REPO --checkout $ANSIBLE_PULL_BRANCH --inventory-file $ANSIBLE_PULL_INVENTORY_FILE --module-name $ANSIBLE_PULL_MODULE_NAME"

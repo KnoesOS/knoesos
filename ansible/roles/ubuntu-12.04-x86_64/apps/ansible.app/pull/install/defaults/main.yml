@@ -1,28 +1,35 @@
 ---
 # file: defaults/main.yml
 
-ansible_pull_command: >
-  ansible-pull
-  --purge
-  --force
-  --directory /var/ansible-pull
-  --url 
-  --checkout
-  --inventory-file
-  --module-name git
+# Location of the ansible-pull command
+ANSIBLE_PULL_BIN: "/usr/bin/ansible-pull"
 
-  --purge
-  --for
+# host to ping to test WAN connectivity
+ANSIBLE_PULL_PING_HOST: "127.0.0.1"
 
-  -d 
+# where to stage pull data
+ANSIBLE_PULL_STAGING_DIRECTORY: "/root/ansible-pull"
 
-  # ansible-pull
-  #   --purge
-  #   --force
-  #   --directory /var/ansible-pull
-  #   --url
-  #   --checkout
-  #   --inventory-file
-  #   --module-name git
+# where to obtain pull data
+ANSIBLE_PULL_REPO: "git@github.com:KnoesOS/knoesos.git"
 
+# branch to checkout
+ANSIBLE_PULL_BRANCH: "master"
 
+# name of target inventory file
+ANSIBLE_PULL_INVENTORY_FILE: "local.yml"
+
+# Ansible module used for pull (e.g. "git")
+ANSIBLE_PULL_MODULE_NAME: "git"
+
+# Seconds to sleep between pulls (e.g. "600")
+ANSIBLE_PULL_SLEEP_SECONDS: "600"
+
+# Options to pass to ansible-pull
+ANSIBLE_PULL_OPTS: >
+  --purge 
+  --directory $ANSIBLE_PULL_STAGING_DIRECTORY 
+  --url $ANSIBLE_PULL_REPO 
+  --checkout $ANSIBLE_PULL_BRANCH 
+  --inventory-file $ANSIBLE_PULL_INVENTORY_FILE 
+  --module-name $ANSIBLE_PULL_MODULE_NAME

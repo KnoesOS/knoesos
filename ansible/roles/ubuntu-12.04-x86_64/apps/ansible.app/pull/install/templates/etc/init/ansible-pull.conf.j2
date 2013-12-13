@@ -1,0 +1,85 @@
+# ansible-pull - Automate execution of Ansible's pull mode.
+#
+# file: /etc/init/ansible-pull.conf
+#
+# KnoesOS -- A warehouse scale operating system for the ages.
+#
+# Copyright 2013 Kno.e.sis (http://knoesis.org), Joshua Dotson <josh@wrale.com>
+#
+# KnoesOS is free software: you can redistribute it and/or modify
+# it under the terms of the GNU Affero General Public License as
+# published by the Free Software Foundation, either version 3 of the
+# License, or (at your option) any later version.
+#
+# KnoesOS is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU Affero General Public License for more details.
+#
+# You should have received a copy of the GNU Affero General Public License
+# along with KnoesOS. If not, see <http://www.gnu.org/licenses/>.
+
+description  "ansible-pull"
+version  "0.1.0"
+author  "Joshua Dotson <josh@wrale.com>"
+
+start on started network-services
+stop on runlevel [016]
+
+umask 0077
+console log
+respawn
+
+env DEFAULT_FILE="/etc/default/ansible-pull"
+
+pre-start script
+
+  [ ! -f "$DEFAULT_FILE" ] \
+    && logger -is -t "$UPSTART_JOB" \
+      "ERROR: ansible-pull DEFAULT_FILE missing! not starting!" \
+    && { stop; exit 1; }
+
+  . "$DEFAULT_FILE"
+
+  [ "x$ENABLED" != "x1"  ] \
+    && logger -is -t "$UPSTART_JOB" \
+      "INFO: ansible-pull is disabled! not starting!" \
+    && { stop; exit 2; }
+
+    [ ! -x "$ANSIBLE_PULL_BIN" ] \
+      && logger -is -t "$UPSTART_JOB" \
+        "ERROR: ansible-pull binary missing!" \
+      && { stop; exit 3; }
+
+end script
+
+script
+
+  while true
+  do
+
+    [ ! -f "$DEFAULT_FILE" ] \
+      && logger -is -t "$UPSTART_JOB" \
+        "ERROR: ansible-pull DEFAULT_FILE missing!" \
+      && { stop; exit 1; }
+
+    . "$DEFAULT_FILE"
+
+    [ "x$ENABLED" != "x1"  ] \
+      && logger -is -t "$UPSTART_JOB" \
+        "INFO: ansible-pull is disabled!" \
+      && { stop; exit 2; }
+
+    [ ! -x "$ANSIBLE_PULL_BIN" ] \
+      && logger -is -t "$UPSTART_JOB" \
+        "ERROR: ansible-pull binary missing!" \
+      && { stop; exit 3; }
+
+    exec \
+      ping -c1 -w30 "$ANSIBLE_PULL_PING_HOST" \
+      && "$ANSIBLE_PULL_BIN" $ANSIBLE_PULL_OPTS \
+      && sleep "$ANSIBLE_PULL_SLEEP_SECONDS"
+
+  done
+
+end script
