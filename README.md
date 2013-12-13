@@ -3,6 +3,8 @@ knoesos
 
 A warehouse scale operating system for the ages.
 
+The following diagram is out of date and was intended as only a sketch, though the general idea persists. :)
+
 ![Service Dependencies](assets/png/knoesos-service-dependencies.png?raw=true "Service Dependencies")
 
 
