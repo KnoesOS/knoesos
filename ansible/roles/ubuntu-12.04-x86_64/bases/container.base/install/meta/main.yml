@@ -1,0 +1,9 @@
+---
+# file: meta/main.yml
+
+dependencies:
+
+  # Install bases
+  - role: ubuntu-12.04-x86_64/bases/common.base/install
+
+  # Install services

@@ -3,6 +3,9 @@
 
 dependencies:
 
+  # Install bases
+  - role: ubuntu-12.04-x86_64/bases/common.base/install
+
   # Install utilities
   - role: ubuntu-12.04-x86_64/apps/cloud-utils.app/install
   - role: ubuntu-12.04-x86_64/apps/debootstrap.app/install
@@ -10,5 +13,3 @@ dependencies:
   # Install services
   - role: ubuntu-12.04-x86_64/apps/libvirt.app/install
   - role: ubuntu-12.04-x86_64/apps/lxc.app/install
-
-  # Configure services
