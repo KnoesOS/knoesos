@@ -1,5 +1,5 @@
 knoesos
-=======
+====
 
 A warehouse scale operating system for the ages.
 
@@ -8,8 +8,36 @@ The following diagram is out of date and was intended as only a sketch, though t
 ![Service Dependencies](assets/png/knoesos-service-dependencies.png?raw=true "Service Dependencies")
 
 
+Role Dependency Graph
+----
+
+### Pictorial
+
+![Role Dependencies](../assets/png/role-deps.png?raw=true "Role Dependencies")
+
+
+### Textual
+
+- nodes -> apps
+- nodes -> bases
+- nodes -> containers
+- nodes -> helpers
+- nodes -> policies
+- containers -> apps
+- containers -> bases
+- containers -> helpers
+- containers -> policies
+- bases -> apps
+- bases -> helpers
+- bases -> policies
+- policies -> apps
+- policies -> helpers
+- helpers -> apps
+
+
+
 AGPLv3 License
---------------
+----
 ```
     KnoesOS -- A warehouse scale operating system for the ages.
     Copyright (C) 2013 Kno.e.sis, Joshua Dotson
