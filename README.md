@@ -8,15 +8,14 @@ The following diagram is out of date and was intended as only a sketch, though t
 ![Service Dependencies](assets/png/knoesos-service-dependencies.png?raw=true "Service Dependencies")
 
 
-Role Dependency Graph
-----
+### Role Dependency Graph
 
-### Pictorial
+#### Pictorial
 
 ![Role Dependencies](../assets/png/role-deps.png?raw=true "Role Dependencies")
 
 
-### Textual
+#### Textual
 
 - nodes -> apps
 - nodes -> bases
@@ -36,8 +35,7 @@ Role Dependency Graph
 
 
 
-AGPLv3 License
-----
+### AGPLv3 License
 ```
     KnoesOS -- A warehouse scale operating system for the ages.
     Copyright (C) 2013 Kno.e.sis, Joshua Dotson
