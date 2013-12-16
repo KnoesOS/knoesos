@@ -1,13 +1,22 @@
 ---
 # file: tasks/main.yml
 
-- name: "group_by: dist"
-  action: group_by key=dist_{{ ansible_distribution }}
+- name: "group_by: distribution"
+  action: group_by
+          key={{ ansible_distribution }}
 
-- name: "group_by: distvers"
-  action: group_by 
-          key=distvers_{{ ansible_distribution_version }}
+- name: "group_by: architecture"
+  action: group_by
+          key={{ ansible_architecture }}
 
-- name: "group_by: distarch"
-  action: group_by 
-          key=distarch_{{ ansible_architecture }}
+- name: "group_by: distribution-architecture"
+  action: group_by
+          key={{ ansible_distribution }}-{{ ansible_architecture }}
+
+- name: "group_by: distribution-version"
+  action: group_by
+          key={{ ansible_distribution }}-{{ ansible_distribution_version }}
+
+- name: "group_by: distribution-version-architecture"
+  action: group_by
+          key={{ ansible_distribution }}-{{ ansible_distribution_version }}-{{ ansible_architecture }}
