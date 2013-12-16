@@ -12,7 +12,7 @@ The following diagram is out of date and was intended as only a sketch, though t
 
 #### Pictorial
 
-![Role Dependencies](../assets/png/role-deps.png?raw=true "Role Dependencies")
+![Role Dependencies](assets/png/role-deps.png?raw=true "Role Dependencies")
 
 
 #### Textual
