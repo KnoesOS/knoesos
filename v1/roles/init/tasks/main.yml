@@ -1,0 +1,13 @@
+---
+# file: tasks/main.yml
+
+- name: "group_by: dist"
+  action: group_by key=dist_{{ ansible_distribution }}
+
+- name: "group_by: distvers"
+  action: group_by 
+          key=distvers_{{ ansible_distribution_version }}
+
+- name: "group_by: distarch"
+  action: group_by 
+          key=distarch_{{ ansible_architecture }}

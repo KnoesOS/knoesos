@@ -8,10 +8,10 @@ ANSIBLE_PULL_BIN: "/usr/bin/ansible-pull"
 ANSIBLE_PULL_PING_HOST: "127.0.0.1"
 
 # where to stage pull data
-ANSIBLE_PULL_STAGING_DIRECTORY: "/root/ansible-pull"
+ANSIBLE_PULL_STAGING_DIRECTORY: "/var/ansible-pull"
 
 # where to obtain pull data
-ANSIBLE_PULL_REPO: "git@github.com:KnoesOS/knoesos.git"
+ANSIBLE_PULL_REPO: "YOUR_REPO_HERE"
 
 # branch to checkout
 ANSIBLE_PULL_BRANCH: "master"

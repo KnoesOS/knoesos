@@ -20,7 +20,7 @@
 
 - name: 'install: ansible (pull): upstart default file'
   template: src=etc/default/ansible-pull.j2
-            dest=/etc/init/ansible-pull.conf
+            dest=/etc/default/ansible-pull
             owner=root
             group=root
             mode=00700

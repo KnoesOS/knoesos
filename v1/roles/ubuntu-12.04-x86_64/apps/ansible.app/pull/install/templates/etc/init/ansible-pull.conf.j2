@@ -23,7 +23,7 @@ description  "ansible-pull"
 version  "0.1.0"
 author  "Joshua Dotson <josh@wrale.com>"
 
-start on started network-services
+start on runlevel [!016]
 stop on runlevel [016]
 
 umask 0077
